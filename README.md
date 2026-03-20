@@ -1,7 +1,7 @@
 # Remote Desktop Connection Manager (RDCMan)
 
 Download latest version from Releases:       
-https://github.com/rdpmgr/RDCMan/releases/tag/v3.1
+https://github.com/rdckit/RDCMan/releases/tag/v3.1
 
 ## Introduction
 
@@ -9,4 +9,4 @@ Remote Desktop Connection Manager (RDCMan) is a lightweight utility for organizi
 
 RDCMan stores settings per group and per server, making it easy to apply common options—such as display size, gateway usage, redirection, or performance tweaks—while still allowing exceptions for specific machines. It supports saved credentials (with appropriate security precautions), quick reconnect, and easy switching between sessions, which is especially useful for administrators, support engineers, and anyone who routinely maintains Windows hosts.
 
-Built for speed and simplicity, the interface lets you connect instantly with a double-click, monitor sessions in a grid layout, and edit properties without digging through Windows dialogs. You can import RDP files, duplicate configurations, and group connections based on your needs. From small setups to complex infrastructures, RDCMan improves remote management by keeping things organized and consistent. Teams can share connection files, manage them through version control, and maintain uniform naming conventions, reducing setup time for new users.
+The tool emphasizes quick access and ease of use: double-click to connect, keep all sessions visible in a grid, and modify settings without navigating multiple Windows menus. It allows you to import RDP files, replicate entries, and structure connections into task-specific groups. Whether you're handling a simple lab or a large-scale server network, RDCMan enhances productivity by minimizing clutter and standardizing workflows. Connection files can be shared, version-controlled, and distributed among teams to ensure consistency and speed up onboarding.
